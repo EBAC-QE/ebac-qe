@@ -117,7 +117,7 @@ Isso é evolução técnica de verdade.
 
 ## 👨‍🏫 Sobre a EBAC
 
-Este repositório é mantido pelos professores da EBAC Fábio Araújo & José Ernesto, como parte do material prático das aulas de Engenharia de Qualidade de Software.
+Este repositório é mantido pelos professores da EBAC, Fábio Araújo & José Ernesto, como parte do material prático das aulas de Engenharia de Qualidade de Software.
 
 Ele reflete práticas reais de mercado e serve como apoio direto ao seu desenvolvimento profissional.
 
